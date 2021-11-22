@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\Animalbstract\bin\Debug\net5.0\Animalbstract.exe
+C:\Users\user\source\repos\Animalbstract\bin\Debug\net5.0\Animalbstract.deps.json
+C:\Users\user\source\repos\Animalbstract\bin\Debug\net5.0\Animalbstract.runtimeconfig.json
+C:\Users\user\source\repos\Animalbstract\bin\Debug\net5.0\Animalbstract.runtimeconfig.dev.json
+C:\Users\user\source\repos\Animalbstract\bin\Debug\net5.0\Animalbstract.dll
+C:\Users\user\source\repos\Animalbstract\bin\Debug\net5.0\ref\Animalbstract.dll
+C:\Users\user\source\repos\Animalbstract\bin\Debug\net5.0\Animalbstract.pdb
+C:\Users\user\source\repos\Animalbstract\obj\Debug\net5.0\Animalbstract.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Animalbstract\obj\Debug\net5.0\Animalbstract.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Animalbstract\obj\Debug\net5.0\Animalbstract.AssemblyInfo.cs
+C:\Users\user\source\repos\Animalbstract\obj\Debug\net5.0\Animalbstract.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Animalbstract\obj\Debug\net5.0\Animalbstract.dll
+C:\Users\user\source\repos\Animalbstract\obj\Debug\net5.0\ref\Animalbstract.dll
+C:\Users\user\source\repos\Animalbstract\obj\Debug\net5.0\Animalbstract.pdb
+C:\Users\user\source\repos\Animalbstract\obj\Debug\net5.0\Animalbstract.genruntimeconfig.cache
+C:\Users\user\source\repos\Animalbstract\obj\Debug\net5.0\Animalbstract.csproj.AssemblyReference.cache
