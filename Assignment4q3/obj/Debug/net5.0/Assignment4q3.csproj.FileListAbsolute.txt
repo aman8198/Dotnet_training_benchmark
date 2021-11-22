@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\Assignment4q3\bin\Debug\net5.0\Assignment4q3.exe
+C:\Users\user\source\repos\Assignment4q3\bin\Debug\net5.0\Assignment4q3.deps.json
+C:\Users\user\source\repos\Assignment4q3\bin\Debug\net5.0\Assignment4q3.runtimeconfig.json
+C:\Users\user\source\repos\Assignment4q3\bin\Debug\net5.0\Assignment4q3.runtimeconfig.dev.json
+C:\Users\user\source\repos\Assignment4q3\bin\Debug\net5.0\Assignment4q3.dll
+C:\Users\user\source\repos\Assignment4q3\bin\Debug\net5.0\ref\Assignment4q3.dll
+C:\Users\user\source\repos\Assignment4q3\bin\Debug\net5.0\Assignment4q3.pdb
+C:\Users\user\source\repos\Assignment4q3\obj\Debug\net5.0\Assignment4q3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Assignment4q3\obj\Debug\net5.0\Assignment4q3.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Assignment4q3\obj\Debug\net5.0\Assignment4q3.AssemblyInfo.cs
+C:\Users\user\source\repos\Assignment4q3\obj\Debug\net5.0\Assignment4q3.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Assignment4q3\obj\Debug\net5.0\Assignment4q3.dll
+C:\Users\user\source\repos\Assignment4q3\obj\Debug\net5.0\ref\Assignment4q3.dll
+C:\Users\user\source\repos\Assignment4q3\obj\Debug\net5.0\Assignment4q3.pdb
+C:\Users\user\source\repos\Assignment4q3\obj\Debug\net5.0\Assignment4q3.genruntimeconfig.cache

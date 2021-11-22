@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\Assignment4q2\bin\Debug\net5.0\Assignment4q2.exe
+C:\Users\user\source\repos\Assignment4q2\bin\Debug\net5.0\Assignment4q2.deps.json
+C:\Users\user\source\repos\Assignment4q2\bin\Debug\net5.0\Assignment4q2.runtimeconfig.json
+C:\Users\user\source\repos\Assignment4q2\bin\Debug\net5.0\Assignment4q2.runtimeconfig.dev.json
+C:\Users\user\source\repos\Assignment4q2\bin\Debug\net5.0\Assignment4q2.dll
+C:\Users\user\source\repos\Assignment4q2\bin\Debug\net5.0\ref\Assignment4q2.dll
+C:\Users\user\source\repos\Assignment4q2\bin\Debug\net5.0\Assignment4q2.pdb
+C:\Users\user\source\repos\Assignment4q2\obj\Debug\net5.0\Assignment4q2.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Assignment4q2\obj\Debug\net5.0\Assignment4q2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Assignment4q2\obj\Debug\net5.0\Assignment4q2.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Assignment4q2\obj\Debug\net5.0\Assignment4q2.AssemblyInfo.cs
+C:\Users\user\source\repos\Assignment4q2\obj\Debug\net5.0\Assignment4q2.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Assignment4q2\obj\Debug\net5.0\Assignment4q2.dll
+C:\Users\user\source\repos\Assignment4q2\obj\Debug\net5.0\ref\Assignment4q2.dll
+C:\Users\user\source\repos\Assignment4q2\obj\Debug\net5.0\Assignment4q2.pdb
+C:\Users\user\source\repos\Assignment4q2\obj\Debug\net5.0\Assignment4q2.genruntimeconfig.cache
