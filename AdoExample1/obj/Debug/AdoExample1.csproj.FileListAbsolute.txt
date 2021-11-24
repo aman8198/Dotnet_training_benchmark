@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\AdoExample1\bin\Debug\AdoExample1.exe.config
+C:\Users\user\source\repos\AdoExample1\bin\Debug\AdoExample1.exe
+C:\Users\user\source\repos\AdoExample1\bin\Debug\AdoExample1.pdb
+C:\Users\user\source\repos\AdoExample1\obj\Debug\AdoExample1.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\AdoExample1\obj\Debug\AdoExample1.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\AdoExample1\obj\Debug\AdoExample1.exe
+C:\Users\user\source\repos\AdoExample1\obj\Debug\AdoExample1.pdb
