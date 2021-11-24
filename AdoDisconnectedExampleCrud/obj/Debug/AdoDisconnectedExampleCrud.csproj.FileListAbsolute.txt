@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\AdoDisconnectedExampleCrud\bin\Debug\AdoDisconnectedExampleCrud.exe.config
+C:\Users\user\source\repos\AdoDisconnectedExampleCrud\bin\Debug\AdoDisconnectedExampleCrud.exe
+C:\Users\user\source\repos\AdoDisconnectedExampleCrud\bin\Debug\AdoDisconnectedExampleCrud.pdb
+C:\Users\user\source\repos\AdoDisconnectedExampleCrud\obj\Debug\AdoDisconnectedExampleCrud.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\AdoDisconnectedExampleCrud\obj\Debug\AdoDisconnectedExampleCrud.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\AdoDisconnectedExampleCrud\obj\Debug\AdoDisconnectedExampleCrud.exe
+C:\Users\user\source\repos\AdoDisconnectedExampleCrud\obj\Debug\AdoDisconnectedExampleCrud.pdb
