@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\Csharptuitorial\bin\Debug\net5.0\Csharptuitorial.exe
+C:\Users\user\source\repos\Csharptuitorial\bin\Debug\net5.0\Csharptuitorial.deps.json
+C:\Users\user\source\repos\Csharptuitorial\bin\Debug\net5.0\Csharptuitorial.runtimeconfig.json
+C:\Users\user\source\repos\Csharptuitorial\bin\Debug\net5.0\Csharptuitorial.runtimeconfig.dev.json
+C:\Users\user\source\repos\Csharptuitorial\bin\Debug\net5.0\Csharptuitorial.dll
+C:\Users\user\source\repos\Csharptuitorial\bin\Debug\net5.0\ref\Csharptuitorial.dll
+C:\Users\user\source\repos\Csharptuitorial\bin\Debug\net5.0\Csharptuitorial.pdb
+C:\Users\user\source\repos\Csharptuitorial\obj\Debug\net5.0\Csharptuitorial.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Csharptuitorial\obj\Debug\net5.0\Csharptuitorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Csharptuitorial\obj\Debug\net5.0\Csharptuitorial.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Csharptuitorial\obj\Debug\net5.0\Csharptuitorial.AssemblyInfo.cs
+C:\Users\user\source\repos\Csharptuitorial\obj\Debug\net5.0\Csharptuitorial.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Csharptuitorial\obj\Debug\net5.0\Csharptuitorial.dll
+C:\Users\user\source\repos\Csharptuitorial\obj\Debug\net5.0\ref\Csharptuitorial.dll
+C:\Users\user\source\repos\Csharptuitorial\obj\Debug\net5.0\Csharptuitorial.pdb
+C:\Users\user\source\repos\Csharptuitorial\obj\Debug\net5.0\Csharptuitorial.genruntimeconfig.cache
