@@ -1,0 +1,39 @@
+﻿@model      IEnumerable<WebApplication2.ViewModel.EmployeeVM>
+@{
+    Layout = null;
+}
+
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width"/>
+    <title>Index</title>
+</head>
+<body>
+    <div>
+        <h1>
+            Employee Information
+        </h1>
+        <table border="1">
+            <tr>
+                <th>Empno</th>
+                <th>Ename</th>
+                <th>location</th>
+                <th>Ehead</th>
+            </tr>
+
+            @foreach(var item in Model)
+            {
+                <tr>
+                <td>@item.empno</td>
+                <td>@item.ename </td>
+                <td>@item.location</td>
+                <td>@item.ehead</td>
+                </tr>
+            }
+                
+        </table>
+    </div>
+</body>
+</html>
