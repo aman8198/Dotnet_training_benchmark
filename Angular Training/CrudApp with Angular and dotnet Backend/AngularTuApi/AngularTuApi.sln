@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AngularTuApi", "AngularTuApi.csproj", "{E9D921D3-EE91-4BAE-9D1B-000EC59B504B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E9D921D3-EE91-4BAE-9D1B-000EC59B504B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9D921D3-EE91-4BAE-9D1B-000EC59B504B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9D921D3-EE91-4BAE-9D1B-000EC59B504B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9D921D3-EE91-4BAE-9D1B-000EC59B504B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2A2FB622-2BE0-41C1-9DA3-D842DD16AA7F}
+	EndGlobalSection
+EndGlobal
